@@ -1,0 +1,6 @@
+1=> task5 portfolio
+2=> github reading
+3=> account on github
+4=> host portfolio on and also both projects github
+5=> react reading
+
